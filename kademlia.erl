@@ -8,6 +8,7 @@
     %% Node management
     start_node/0,
     start_node/1,
+    join/1,
     join/2,
     stop_node/1,
     
